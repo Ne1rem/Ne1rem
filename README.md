@@ -1,18 +1,26 @@
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I am a passionate developer with a keen interest in building modern web applications using the latest technologies.
+# Hi there, I'm Anatoliy Daniluyk Front-end developer👋
 
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** 
-  - Next.js
-  - React
-  - Tailwind CSS
-  - CSS
+  - Next.js <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nextjs&svgfill=f06629">
+</a> 
+  - React <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+</a>
+  - Tailwind CSS <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwind&svgfill=f06629">
+</a> 
+  - CSS <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&svgfill=f06629">
+</a> 
+  - JS <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a> 
 
 - **Backend:**
   - REST APIs
-  - GraphQL APIs
 
 ## 🚀 Projects
 

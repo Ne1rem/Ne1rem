@@ -12,15 +12,10 @@
 - **Backend:**
   - REST APIs
 
-## 📈 GitHub Stats
-
-![Ne1rem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ne1rem&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/anatoliy-daniliuk-5006a819a/)
+- [Email](mailto:anatolydanilyuk2002@gmail.com)
 
 ## 💡 Fun Facts
 
@@ -29,7 +24,4 @@
 - 💬 Ask me about React, Next.js, or anything related to web development.
 - ⚡ Fun fact: I love coding while listening to lo-fi music.
 
----
-
-⭐️ From [Your Name](https://github.com/your-github-username)
 

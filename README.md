@@ -14,7 +14,7 @@
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Ne1rem&show_icons=true&theme=radical))
+![Ne1rem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ne1rem&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 

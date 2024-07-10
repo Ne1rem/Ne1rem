@@ -1,7 +1,7 @@
 # I'm Anatoliy Daniluyk Front-end developer👋
 
 # Experience 
--Learn Front-end over 1.5 year
+-Learn Front-end over 1.5 year<br />
 -Work in SoftRyzen
 
 ### 🧰 Languages and Tools

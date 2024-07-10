@@ -1,5 +1,9 @@
 # I'm Anatoliy Daniluyk Front-end developer👋
 
+# Experience 
+-Learn Front-end over 1.5 year
+-Work in SoftRyzen
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
